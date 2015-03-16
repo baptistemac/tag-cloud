@@ -1,0 +1,1 @@
+Création d'une application génératrice de nuage de tag en parcourant une page web. Elle identifie les mots les plus récurents dans la page et y associe la première image FlickR du flux xml correspondant.
